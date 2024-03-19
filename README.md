@@ -1,7 +1,7 @@
 # Re-Vision-Image-Recognition-System
 Steps to run-
 1. Install Python 3.7.0
-2. Download and copy all folders from https://drive.google.com/file/d/1Jja5euVon9pT8e1HckJacBUaaS_qakdh/view?usp=sharing
+2. Download and copy all folders from https://drive.google.com/file/d/1fe_7diE4FwayoV6phPxRSrePNcetzy5O/view?usp=drive_link
 3. Run command pip install -r requirements.txt
 4. Run main.py file
    
